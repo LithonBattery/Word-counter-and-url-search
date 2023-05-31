@@ -8,4 +8,4 @@ BENDRA INFORMACIJA:
 - Nuskaitoma iš "data.txt" failo.
 - Spausdinama į "rez.txt" failą.
 - Programa veikia tik su ASCII lentelės simboliais.
-- Pateikiamas pavyzdinis failas "data.txt" su ištrauka iš šio puslapio: https://en.wikipedia.org/wiki/Vilnius.
+- Pateikiamas pavyzdinis failas "data.txt" su ištrauka iš šio puslapio: https://www.wikiwand.com/en/Llama.
